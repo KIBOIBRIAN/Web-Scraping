@@ -1,3 +1,19 @@
+import scrap as src
+
+from requests import get
+from requests.exceptions import RequestException
+from contextlib import closing
+from bs4 import BeautifulSoup, SoupStrainer
+from urllib.parse import urlsplit
+
+import pandas as pd
+import numpy as np
+
+import os, sys, httplib2, json, fire, re, string, requests
+from collections import OrderedDict, deque
+import re, requests, requests.exceptions
+
+
 def simple_get(url):
     """
     Attempts to get the content at `url` by making an HTTP GET request.
