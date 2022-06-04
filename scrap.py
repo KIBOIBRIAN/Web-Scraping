@@ -20,8 +20,12 @@ def simple_get(url):
     If the content-type of response is some kind of HTML/XML, return the
     text content, otherwise return None.
     """
+    agent = {
+        "User-Agent":'Mozilla/5.0 (X11; Linux x86_64; rv:97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36'
+        }
+    # page = requests.get(url, headers=agent)
     try:
-        with closing(get(url, stream=True)) as resp:
+        with closing(get(url, stream=True, headers=agent)) as resp:
             if is_good_response(resp):
                 return resp.content  #.encode(BeautifulSoup.original_encoding)
             else:
@@ -55,7 +59,7 @@ def get_elements(url, tag='',search={}, fname=None):
     Downloads a page specified by the url parameter
     and returns a list of strings, one per tag element
     """
-    
+
     if isinstance(url,str):
         response = simple_get(url)
     else:
@@ -116,5 +120,61 @@ def get_tag_elements(url, tag='h2'):
     raise Exception('Error retrieving contents at {}'.format(url)) 
     
     
+def contactCanada(urls, naics_code):
+
+    # names
+    names = []
+    for site in urls:
+        stuff = get_elements(site, tag='ul',search={}, fname=None)
+        names.append(stuff[2:-2])
+
+
+    names_ = [item for sublist in names for item in sublist]
+    print(len(names_))
+
+    links = []
+
+    for site in urls:
+        linkss = get_links(site)
+        linkss = [link for link in linkss if "freesearch" in link][1:]
+        links.append(linkss)
+
+    links_ = [item for sublist in links for item in sublist]
+
+    links_ = [url.split('"')[1] for url in links_]
+    print(len(links_))
+
+    # name df
+    df_ = pd.DataFrame(columns=["name", "url"])
+    df_["name"] = names_
+    df_["url"] = links_
+
+    df_["url"] = "https://www.contactcanada.com/database/" + df_.url
+    df_.url = df_.url.str.replace("amp;", "")
+    df_.head()
+
+    # further details
+    infos = []
+    for url in df_.url.values:
+        infos.append(get_elements(url, tag='div',search={"class": "profileWrapper layoutSixth"}, fname=None))
+
+    updated =[]
+    for info in infos:
+        updated.append(list(OrderedDict.fromkeys(info))[2:])
+
+    print(len(updated))
+
+    all_ = []
+    for info in updated:
+        all_.append(get_info(info))
+
+    len(all_)
+
+    df_ = pd.DataFrame.from_dict(all_)
+    df_.naics_code = naics_code
+    display(df_.sample(3))
+    
+    return df_
+
 if get_ipython().__class__.__name__ == '__main__':
     fire(get_tag_elements)

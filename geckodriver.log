@@ -1,0 +1,508 @@
+1654341347341	geckodriver	INFO	Listening on 127.0.0.1:37519
+1654341347422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZHY6Ip"
+Gtk-Message: 14:15:47.596: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654341348423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZHY6Ip/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52375/devtools/browser/794b50a0-593a-4c27-b424-494b064f3335
+1654341350614	Marionette	INFO	Listening on port 32787
+Read port: 32787
+1654341350697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654341353295	Marionette	INFO	Stopped listening on port 32787
+1654341400305	geckodriver	INFO	Listening on 127.0.0.1:47353
+1654341400385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledPGj3f"
+Gtk-Message: 14:16:40.571: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654341401291	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledPGj3f/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59755/devtools/browser/da6e7cd1-8a03-4332-9ff5-9e7aea475738
+1654341403539	Marionette	INFO	Listening on port 42319
+Read port: 42319
+1654341403643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:811:3
+
+1654341415423	Marionette	INFO	Stopped listening on port 42319
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654341455223	geckodriver	INFO	Listening on 127.0.0.1:44653
+1654341455789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI0hOL6"
+Gtk-Message: 14:17:36.094: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654341457265	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI0hOL6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46131/devtools/browser/0ab1a559-205b-4dca-a163-4a5204249a80
+1654341460577	Marionette	INFO	Listening on port 46477
+Read port: 46477
+1654341460685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1654341468436	geckodriver	INFO	Listening on 127.0.0.1:57303
+1654341468515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLTv4dZ"
+Gtk-Message: 14:17:48.667: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654341469380	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLTv4dZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59807/devtools/browser/61933414-f5a8-474e-ba85-ab91c0fdec68
+1654341471779	Marionette	INFO	Listening on port 46549
+Read port: 46549
+1654341471910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654341473823	Marionette	INFO	Stopped listening on port 46549
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1654341485770	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1654341499049	geckodriver	INFO	Listening on 127.0.0.1:50729
+1654341499134	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelDvCet"
+Gtk-Message: 14:18:19.289: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654341499984	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelDvCet/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57151/devtools/browser/82fa93cc-0c6f-45ae-8016-772ae9baa814
+1654341502088	Marionette	INFO	Listening on port 33195
+Read port: 33195
+1654341502174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654341529808	Marionette	INFO	Stopped listening on port 33195
+Exiting due to channel error.
+Exiting due to channel error.
+1654341569809	geckodriver	INFO	Listening on 127.0.0.1:40479
+1654341569891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNzr2WG"
+Gtk-Message: 14:19:30.106: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654341570961	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNzr2WG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45221/devtools/browser/de8710cd-4a05-4b6c-8054-d06868182073
+1654341573223	Marionette	INFO	Listening on port 38983
+Read port: 38983
+1654341573337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654341574815	Marionette	INFO	Stopped listening on port 38983
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1654341578398	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1654341673624	geckodriver	INFO	Listening on 127.0.0.1:43941
+1654341673715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRGpssE"
+Gtk-Message: 14:21:13.882: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654341674690	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRGpssE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60487/devtools/browser/9e979f56-4274-40af-8890-4bd9ae1d0862
+1654341676623	Marionette	INFO	Listening on port 40877
+Read port: 40877
+1654341676664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654341697596	Marionette	INFO	Stopped listening on port 40877
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654341750712	geckodriver	INFO	Listening on 127.0.0.1:35631
+1654341750806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileI2iYzw"
+Gtk-Message: 14:22:30.998: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654341751710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileI2iYzw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44595/devtools/browser/6597260d-cb38-4010-9ca6-318d9f568462
+1654341753713	Marionette	INFO	Listening on port 33109
+Read port: 33109
+1654341753837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.10/index.js, line 1: WebGL context was lost.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.62.1/et_n.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://assets.alicdn.com/g/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+1654341805985	Marionette	INFO	Stopped listening on port 33109
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1654341898645	geckodriver	INFO	Listening on 127.0.0.1:36763
+1654341898711	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileghyFq0"
+Gtk-Message: 14:24:58.871: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654341899562	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileghyFq0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34085/devtools/browser/f9184b04-1bb8-4de9-b675-6cb01c440eff
+1654341901446	Marionette	INFO	Listening on port 44553
+Read port: 44553
+1654341901543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654341902470	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html, line 1501: SyntaxError: expected expression, got ','
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654341917291	Marionette	INFO	Stopped listening on port 44553
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654341917971	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1654341929113	geckodriver	INFO	Listening on 127.0.0.1:33625
+1654341929204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileowzDot"
+Gtk-Message: 14:25:29.362: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654341930078	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileowzDot/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49253/devtools/browser/b91d89d4-ebf0-4975-b2cc-2eecae00bee0
+1654341932026	Marionette	INFO	Listening on port 33407
+Read port: 33407
+1654341932136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654341933214	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html, line 1501: SyntaxError: expected expression, got ','
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654341974249	Marionette	INFO	Stopped listening on port 33407
+1654341998596	geckodriver	INFO	Listening on 127.0.0.1:55259
+1654341998673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34321" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMrf71A"
+Gtk-Message: 14:26:38.867: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654341999672	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMrf71A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34321/devtools/browser/70cd58e6-fdf0-454d-a7f4-f958c4d55875
+1654342001575	Marionette	INFO	Listening on port 44559
+Read port: 44559
+1654342001633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654342003132	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html, line 1501: SyntaxError: expected expression, got ','
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654342021505	Marionette	INFO	Stopped listening on port 44559
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1654342082377	geckodriver	INFO	Listening on 127.0.0.1:35319
+1654342082449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehCgWsN"
+Gtk-Message: 14:28:02.616: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654342083273	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehCgWsN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36883/devtools/browser/e8098153-6989-4ce1-8b03-57753b288a18
+1654342085013	Marionette	INFO	Listening on port 46247
+Read port: 46247
+1654342085093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1654342089728	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html, line 1501: SyntaxError: expected expression, got ','
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654342142166	geckodriver	INFO	Listening on 127.0.0.1:53485
+1654342142226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileU4BGd2"
+Gtk-Message: 14:29:02.450: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654342143431	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU4BGd2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58963/devtools/browser/eb5f43a6-b570-4a2e-9aeb-62184de9a630
+1654342145907	Marionette	INFO	Listening on port 34247
+Read port: 34247
+1654342145989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654342147223	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html, line 1501: SyntaxError: expected expression, got ','
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654342178008	Marionette	INFO	Stopped listening on port 34247
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654342183129	Marionette	INFO	Stopped listening on port 46247
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1654342298418	geckodriver	INFO	Listening on 127.0.0.1:38013
+1654342298991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0W5C4O"
+Gtk-Message: 14:31:39.161: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654342300012	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0W5C4O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34761/devtools/browser/4dd1c200-1f58-4689-9e47-4f47603623c5
+1654342301999	Marionette	INFO	Listening on port 38347
+Read port: 38347
+1654342302081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654342303813	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html, line 1501: SyntaxError: expected expression, got ','
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654342320333	geckodriver	INFO	Listening on 127.0.0.1:57785
+1654342320397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9sbarV"
+Gtk-Message: 14:32:00.609: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654342321400	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9sbarV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59595/devtools/browser/f0d0b967-311f-48d1-903d-19fb7821787c
+1654342323790	Marionette	INFO	Listening on port 33623
+Read port: 33623
+1654342323851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654342324771	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html, line 1501: SyntaxError: expected expression, got ','
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654342349984	Marionette	INFO	Stopped listening on port 33623
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1654342352983	Marionette	INFO	Stopped listening on port 38347
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654342415864	geckodriver	INFO	Listening on 127.0.0.1:37251
+1654342416422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewuvlzR"
+Gtk-Message: 14:33:36.555: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654342417239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewuvlzR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34451/devtools/browser/3f602bda-4ddd-4553-b32b-a15c98b1f0f1
+1654342418975	Marionette	INFO	Listening on port 42617
+Read port: 42617
+1654342419067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654342419975	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html, line 1501: SyntaxError: expected expression, got ','
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654342439429	Marionette	INFO	Stopped listening on port 42617
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1654342479971	geckodriver	INFO	Listening on 127.0.0.1:47881
+1654342480049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHohlAG"
+Gtk-Message: 14:34:40.207: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654342480906	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHohlAG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44561/devtools/browser/6cc5dc8e-a646-412e-a3a3-8f72594f4525
+1654342483160	Marionette	INFO	Listening on port 33461
+Read port: 33461
+1654342483279	Marionette	INFO	Stopped listening on port 33461
+1654342483421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+1654342497905	geckodriver	INFO	Listening on 127.0.0.1:57619
+1654342498489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50627" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileD5yUSe"
+Gtk-Message: 14:34:58.623: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654342499265	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileD5yUSe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50627/devtools/browser/5aac5ecf-951e-415e-a5e2-813fdb5872cc
+1654342501125	Marionette	INFO	Listening on port 34299
+Read port: 34299
+1654342501217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654342502262	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html, line 1501: SyntaxError: expected expression, got ','
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654342508514	Marionette	INFO	Stopped listening on port 34299
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654342581116	geckodriver	INFO	Listening on 127.0.0.1:58259
+1654342581193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile66x8vQ"
+Gtk-Message: 14:36:21.351: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654342582017	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile66x8vQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54155/devtools/browser/cc0c72e8-d583-40cd-9596-764e0d4a49b9
+1654342583946	Marionette	INFO	Listening on port 41189
+Read port: 41189
+1654342584023	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654342585229	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html, line 1501: SyntaxError: expected expression, got ','
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654342591907	Marionette	INFO	Stopped listening on port 41189
+1654342665879	geckodriver	INFO	Listening on 127.0.0.1:51725
+1654342666442	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60633" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7O3wiV"
+Gtk-Message: 14:37:46.602: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654342667291	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7O3wiV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60633/devtools/browser/dd41a06a-3506-4078-b3e5-111f9c0d97a4
+1654342669003	Marionette	INFO	Listening on port 37755
+Read port: 37755
+1654342669090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654342672766	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html, line 1501: SyntaxError: expected expression, got ','
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1654342775347	geckodriver	INFO	Listening on 127.0.0.1:47753
+1654342775406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLPzXAB"
+Gtk-Message: 14:39:35.601: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654342776378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLPzXAB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37979/devtools/browser/0ce6fa6d-b87f-458d-81a1-13b76debc610
+1654342778529	Marionette	INFO	Listening on port 46377
+Read port: 46377
+1654342778637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654342779631	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html, line 1503: SyntaxError: expected expression, got ','
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654342786845	Marionette	INFO	Stopped listening on port 46377
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1654342825063	Marionette	INFO	Stopped listening on port 37755
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1654342882573	geckodriver	INFO	Listening on 127.0.0.1:45445
+1654342883198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletNmPkt"
+Gtk-Message: 14:41:23.377: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654342884113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletNmPkt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34405/devtools/browser/8590c713-45ee-4b67-88f1-35fa8eb2297d
+1654342886153	Marionette	INFO	Listening on port 34701
+Read port: 34701
+1654342886291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654342887266	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html, line 1503: SyntaxError: expected expression, got ','
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654342913844	Marionette	INFO	Stopped listening on port 34701
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654342973793	geckodriver	INFO	Listening on 127.0.0.1:37555
+1654342973929	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45863" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenb8HkC"
+Gtk-Message: 14:42:54.077: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654342974754	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenb8HkC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45863/devtools/browser/739d46df-3d47-4f01-9ab3-f72522de03b2
+1654342976623	Marionette	INFO	Listening on port 38705
+Read port: 38705
+1654342976681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654342977660	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html, line 1503: SyntaxError: expected expression, got ','
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654342986966	Marionette	INFO	Stopped listening on port 38705
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
