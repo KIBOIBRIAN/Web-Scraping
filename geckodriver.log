@@ -1959,3 +1959,1904 @@ JavaScript error: https://www.dnb.com/business-directory/company-information.hea
 JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html?page=2 line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
 JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
 1654351855473	Marionette	INFO	Stopped listening on port 38577
+1654352177514	geckodriver	INFO	Listening on 127.0.0.1:33155
+1654352177609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUEuFpR"
+Gtk-Message: 17:16:17.765: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654352178537	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUEuFpR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43407/devtools/browser/3d0f8fc0-4bb3-41a9-addb-a12bc48358fa
+1654352181486	Marionette	INFO	Listening on port 44601
+Read port: 44601
+1654352181561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654352182383	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.windsor_regional_hospital.fc678005878ec949cd484e7b042e94b4.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654352195039	Marionette	INFO	Stopped listening on port 44601
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654352230079	geckodriver	INFO	Listening on 127.0.0.1:34149
+1654352230158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLPBhkt"
+Gtk-Message: 17:17:10.418: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654352231395	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLPBhkt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39145/devtools/browser/0a7500a8-d328-4f1b-8153-b69858c7e3e5
+1654352234785	Marionette	INFO	Listening on port 35629
+Read port: 35629
+1654352234961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654352236253	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.windsor_regional_hospital.fc678005878ec949cd484e7b042e94b4.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654352248573	Marionette	INFO	Stopped listening on port 35629
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654352308941	geckodriver	INFO	Listening on 127.0.0.1:37707
+1654352309028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZSbHoH"
+Gtk-Message: 17:18:29.191: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654352309913	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZSbHoH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33621/devtools/browser/12bb606c-ec53-4e05-be5e-d63306f7a388
+1654352312861	Marionette	INFO	Listening on port 39213
+Read port: 39213
+1654352312987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654352314228	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.windsor_regional_hospital.fc678005878ec949cd484e7b042e94b4.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654352326157	Marionette	INFO	Stopped listening on port 39213
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=<unknown IPC msg name>) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWindowGlobal::Msg_SetContainerFeaturePolicy) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=<unknown IPC msg name>) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_CommitBrowsingContextTransaction) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWindowGlobal::Msg_SetContainerFeaturePolicy) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1654352435610	geckodriver	INFO	Listening on 127.0.0.1:52601
+1654352435698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelzVaNi"
+Gtk-Message: 17:20:35.863: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654352436743	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelzVaNi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40887/devtools/browser/945020a2-fc76-4230-89bd-f018e7d8b93c
+1654352440016	Marionette	INFO	Listening on port 41941
+Read port: 41941
+1654352440111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654352441691	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.windsor_regional_hospital.fc678005878ec949cd484e7b042e94b4.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654352454940	Marionette	INFO	Stopped listening on port 41941
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: Failed to persistently map PBO of size 1048576 bytes
+[2022-06-04T14:23:31Z ERROR webrender::device::gl] Failed to persistently map PBO of size 1048576 bytes
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: Fallback WR to SW-WR
+1654352712532	geckodriver	INFO	Listening on 127.0.0.1:56581
+1654352713349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTRi3DP"
+Gtk-Message: 17:25:13.526: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654352714400	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTRi3DP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60943/devtools/browser/08700558-4dd4-47ec-ab30-d8e137faba2c
+1654352715991	Marionette	INFO	Listening on port 33649
+Read port: 33649
+1654352716074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654352717111	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.outpatient_care_centers.ca.html?page=2, line 1530: ReferenceError: integrated_search is not defined
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.outpatient_care_centers.ca.html?page=2 line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654352727527	Marionette	INFO	Stopped listening on port 33649
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654352728553	geckodriver	INFO	Listening on 127.0.0.1:60049
+1654352728650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFHT9sm"
+Gtk-Message: 17:25:28.855: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654352729603	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFHT9sm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49537/devtools/browser/ef5bc318-a8fd-4455-9106-983daa12bc9d
+1654352732128	Marionette	INFO	Listening on port 42575
+Read port: 42575
+1654352732226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654352733051	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html?page=2, line 1500: ReferenceError: integrated_search is not defined
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html?page=2 line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654352748931	Marionette	INFO	Stopped listening on port 42575
+1654352750113	geckodriver	INFO	Listening on 127.0.0.1:41567
+1654352750193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesSrBwy"
+Gtk-Message: 17:25:50.418: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654352751214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesSrBwy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50875/devtools/browser/0cb0aeb9-7179-47f0-8967-5d179ff63464
+1654352753720	Marionette	INFO	Listening on port 41605
+Read port: 41605
+1654352753841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654352754770	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.windsor_regional_hospital.fc678005878ec949cd484e7b042e94b4.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654352766766	Marionette	INFO	Stopped listening on port 41605
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654352768062	geckodriver	INFO	Listening on 127.0.0.1:35687
+1654352768120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefKYrzg"
+Gtk-Message: 17:26:08.283: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654352769043	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefKYrzg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33851/devtools/browser/5db7a7cd-a6ed-4c7b-8c39-eed90c7a6c7b
+1654352771579	Marionette	INFO	Listening on port 38921
+Read port: 38921
+1654352771694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654352772845	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.soci%C3%A9t%C3%A9_de_gestion_du_centre_dexcellence_en_th%C3%A9rapie_cellulaire.3453523eca1d04e22a35b5210714923f.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654352784745	Marionette	INFO	Stopped listening on port 38921
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ad9jBBPkK9vi9bAgcuLyu1_QvBg-YOqOKxt2_RJMMQM.js line 2 > eval line 6713 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654352787852	geckodriver	INFO	Listening on 127.0.0.1:40557
+1654352787921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0HFXjS"
+Gtk-Message: 17:26:28.119: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654352789012	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0HFXjS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57005/devtools/browser/9b3d0fe1-82f0-46ef-956c-1c8ee00c0bae
+1654352791973	Marionette	INFO	Listening on port 37943
+Read port: 37943
+1654352792100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654352793244	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.the_canadian_red_cross_society.0e0090048e870428462fb2cada180b2f.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654352804892	Marionette	INFO	Stopped listening on port 37943
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1654352806180	geckodriver	INFO	Listening on 127.0.0.1:37635
+1654352806236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevfqa4W"
+Gtk-Message: 17:26:46.396: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654352807123	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevfqa4W/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37959/devtools/browser/e5596187-ccac-42e3-9faa-1244a2034d44
+1654352809486	Marionette	INFO	Listening on port 45083
+Read port: 45083
+1654352809570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654352810367	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.b%C3%A9n%C3%A9voles_du_centre_hospitalier_r%C3%A9gional_de_lanaudi%C3%A8re_les.c8dfe420437f385e9d12fbe12e6e5a76.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654352820426	geckodriver	INFO	Listening on 127.0.0.1:38083
+1654352820562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47231" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileioi7iZ"
+Gtk-Message: 17:27:00.852: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654352822714	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ad9jBBPkK9vi9bAgcuLyu1_QvBg-YOqOKxt2_RJMMQM.js line 2 > eval line 6557 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileioi7iZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47231/devtools/browser/c28bcc5b-8224-4e48-8441-442e39404f3b
+1654352826737	Marionette	INFO	Listening on port 43603
+Read port: 43603
+1654352826890	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654352828147	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.childrens__womens_health_centre_of_british_columbia_branch.6bda78d9ec7f9595fc1abfeaa6711272.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654352841062	Marionette	INFO	Stopped listening on port 43603
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654352842223	geckodriver	INFO	Listening on 127.0.0.1:54929
+1654352842861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49665" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKdLrTu"
+Gtk-Message: 17:27:23.117: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654352844312	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKdLrTu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49665/devtools/browser/2c1454ee-63c6-492c-8c37-91891326d7bc
+1654352848097	Marionette	INFO	Listening on port 38357
+Read port: 38357
+1654352848274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654352849163	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.ww_canada_ltd.95fbbc5f00ec5d3b3c6a0d704f55c2e7.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654352865132	Marionette	INFO	Stopped listening on port 38357
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654352866360	geckodriver	INFO	Listening on 127.0.0.1:41523
+1654352866452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAUIXE2"
+Gtk-Message: 17:27:46.695: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654352867663	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAUIXE2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45253/devtools/browser/9285e202-9664-47b5-85f3-6d9168239088
+1654352872034	Marionette	INFO	Listening on port 33631
+Read port: 33631
+1654352872232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654352873533	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.centre_de_sante_et_de_services_sociaux_du_sud_de_lanaudiere.200c8e65e58f280ae8a1d147a1f4a88f.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654352885458	geckodriver	INFO	Listening on 127.0.0.1:58395
+1654352886211	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOnjm4L"
+Gtk-Message: 17:28:06.836: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ad9jBBPkK9vi9bAgcuLyu1_QvBg-YOqOKxt2_RJMMQM.js line 2 > eval line 7123 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654352889488	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOnjm4L/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47089/devtools/browser/a181b461-794f-43b6-aba0-ba5abbb9b911
+1654352898136	Marionette	INFO	Listening on port 43375
+Read port: 43375
+1654352898317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654352899446	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+1654353233411	geckodriver	INFO	Listening on 127.0.0.1:51723
+1654353662462	geckodriver	INFO	Listening on 127.0.0.1:52763
+1654353664429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59361" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledWpcFl"
+Gtk-Message: 17:41:04.588: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654353665327	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledWpcFl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59361/devtools/browser/bf01ef69-0a52-4500-9046-c05702e3417a
+1654353667497	Marionette	INFO	Listening on port 40437
+Read port: 40437
+1654353667604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654353668621	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.outpatient_care_centers.ca.html?page=2, line 1530: ReferenceError: integrated_search is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.outpatient_care_centers.ca.html?page=2 line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654353681829	Marionette	INFO	Stopped listening on port 40437
+1654353695539	geckodriver	INFO	Listening on 127.0.0.1:55963
+1654353695606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile89rgjT"
+Gtk-Message: 17:41:36.315: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654353698316	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile89rgjT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47897/devtools/browser/38c64708-0dc6-42b7-9ac7-0b535d3051a0
+1654353699533	Marionette	INFO	Listening on port 40245
+Read port: 40245
+1654353699630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654353701008	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.outpatient_care_centers.ca.html?page=2, line 1530: ReferenceError: integrated_search is not defined
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.outpatient_care_centers.ca.html?page=2 line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654353710590	Marionette	INFO	Stopped listening on port 40245
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654353711392	geckodriver	INFO	Listening on 127.0.0.1:50745
+1654353711468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefwg4Np"
+Gtk-Message: 17:41:51.640: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654353712231	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefwg4Np/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59885/devtools/browser/bbf559a7-294e-4275-b4e7-694acdece578
+1654353713797	Marionette	INFO	Listening on port 45653
+Read port: 45653
+1654353713891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654353714641	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html?page=2, line 1500: ReferenceError: integrated_search is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html?page=2 line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654353725489	Marionette	INFO	Stopped listening on port 45653
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654353746025	geckodriver	INFO	Listening on 127.0.0.1:36583
+1654353746104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilep6JPSn"
+Gtk-Message: 17:42:26.245: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654353746926	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep6JPSn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46207/devtools/browser/757dd1f2-6143-44d4-a2d5-944938c10b53
+1654353748726	Marionette	INFO	Listening on port 41079
+Read port: 41079
+1654353748841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654353749916	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.windsor_regional_hospital.fc678005878ec949cd484e7b042e94b4.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654353758040	Marionette	INFO	Stopped listening on port 41079
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654353759386	geckodriver	INFO	Listening on 127.0.0.1:36553
+1654353759424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1CUWue"
+Gtk-Message: 17:42:39.542: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654353760106	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1CUWue/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57595/devtools/browser/222d7ccd-f497-4a91-86e6-a12b60172d26
+1654353761479	Marionette	INFO	Listening on port 40103
+Read port: 40103
+1654353761561	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654353762321	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.soci%C3%A9t%C3%A9_de_gestion_du_centre_dexcellence_en_th%C3%A9rapie_cellulaire.3453523eca1d04e22a35b5210714923f.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654353774764	Marionette	INFO	Stopped listening on port 40103
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654353775576	geckodriver	INFO	Listening on 127.0.0.1:42395
+1654353775621	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezrBpNN"
+Gtk-Message: 17:42:55.752: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654353776376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezrBpNN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35133/devtools/browser/2eac3f87-829c-4c8b-a8f8-56430f71d448
+1654353777992	Marionette	INFO	Listening on port 39339
+Read port: 39339
+1654353778068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654353779075	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.the_canadian_red_cross_society.0e0090048e870428462fb2cada180b2f.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654353788115	Marionette	INFO	Stopped listening on port 39339
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1654353788890	geckodriver	INFO	Listening on 127.0.0.1:57815
+1654353788928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile12NAtT"
+Gtk-Message: 17:43:09.046: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654353790170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile12NAtT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49063/devtools/browser/03a59c32-ca33-4b67-9e20-468eda373c76
+1654353791447	Marionette	INFO	Listening on port 45221
+Read port: 45221
+1654353791598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654353792572	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.b%C3%A9n%C3%A9voles_du_centre_hospitalier_r%C3%A9gional_de_lanaudi%C3%A8re_les.c8dfe420437f385e9d12fbe12e6e5a76.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ad9jBBPkK9vi9bAgcuLyu1_QvBg-YOqOKxt2_RJMMQM.js line 2 > eval line 3430 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654354069732	geckodriver	INFO	Listening on 127.0.0.1:52909
+1654354070287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57657" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLpSRdm"
+Gtk-Message: 17:47:50.442: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354071187	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLpSRdm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57657/devtools/browser/7540f420-d817-4229-812c-59c8438465f7
+1654354072790	Marionette	INFO	Listening on port 42045
+Read port: 42045
+1654354072842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354073922	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.windsor_regional_hospital.fc678005878ec949cd484e7b042e94b4.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654354081223	geckodriver	INFO	Listening on 127.0.0.1:51273
+1654354081305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile89EI6w"
+Gtk-Message: 17:48:01.566: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354082496	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ad9jBBPkK9vi9bAgcuLyu1_QvBg-YOqOKxt2_RJMMQM.js line 2 > eval line 2923 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile89EI6w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37597/devtools/browser/cde7e45a-8f8f-4ee6-95cf-296d85f8d447
+1654354084416	Marionette	INFO	Listening on port 46845
+Read port: 46845
+1654354084535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354085263	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.soci%C3%A9t%C3%A9_de_gestion_du_centre_dexcellence_en_th%C3%A9rapie_cellulaire.3453523eca1d04e22a35b5210714923f.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982495042&w=379.bundle.js, line 1: Error: AxiosError: Network Error
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654354097072	geckodriver	INFO	Listening on 127.0.0.1:54511
+1654354097709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJLfhMi"
+Gtk-Message: 17:48:17.905: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354098725	Marionette	INFO	Marionette enabled
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ad9jBBPkK9vi9bAgcuLyu1_QvBg-YOqOKxt2_RJMMQM.js line 2 > eval line 5381 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJLfhMi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57339/devtools/browser/95b4f446-a948-4793-a399-1925dd301c19
+1654354100588	Marionette	INFO	Listening on port 43681
+Read port: 43681
+1654354100636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354101544	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.the_canadian_red_cross_society.0e0090048e870428462fb2cada180b2f.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654354111500	geckodriver	INFO	Listening on 127.0.0.1:35763
+1654354111770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40535" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBJ16n8"
+Gtk-Message: 17:48:32.080: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354112880	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ad9jBBPkK9vi9bAgcuLyu1_QvBg-YOqOKxt2_RJMMQM.js line 2 > eval line 36 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBJ16n8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40535/devtools/browser/7e686d35-3bd3-48f0-8923-da797530ff3f
+1654354115237	Marionette	INFO	Listening on port 33591
+Read port: 33591
+1654354115311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354116382	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.b%C3%A9n%C3%A9voles_du_centre_hospitalier_r%C3%A9gional_de_lanaudi%C3%A8re_les.c8dfe420437f385e9d12fbe12e6e5a76.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ad9jBBPkK9vi9bAgcuLyu1_QvBg-YOqOKxt2_RJMMQM.js line 2 > eval line 3143 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654354169825	geckodriver	INFO	Listening on 127.0.0.1:41981
+1654354169927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6SGfsN"
+Gtk-Message: 17:49:30.060: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354170700	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6SGfsN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45823/devtools/browser/e3aa1dab-a31b-4d80-a4e2-6d4ddd354c02
+1654354172754	Marionette	INFO	Listening on port 36141
+Read port: 36141
+1654354172856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354173138	Marionette	INFO	Stopped listening on port 36141
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1654354175298	Marionette	INFO	Stopped listening on port 43681
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654354177218	Marionette	INFO	Stopped listening on port 33591
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654354178591	Marionette	INFO	Stopped listening on port 46845
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1654354181138	Marionette	INFO	Stopped listening on port 42045
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1654354192993	geckodriver	INFO	Listening on 127.0.0.1:57623
+1654354193058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileotfxmd"
+Gtk-Message: 17:49:53.181: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354193724	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileotfxmd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53069/devtools/browser/be072b53-4f9f-4d2b-9328-cf2e6e04755e
+1654354195169	Marionette	INFO	Listening on port 43543
+Read port: 43543
+1654354195277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354196275	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.outpatient_care_centers.ca.html?page=2, line 1530: ReferenceError: integrated_search is not defined
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.outpatient_care_centers.ca.html?page=2 line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654354202130	Marionette	INFO	Stopped listening on port 43543
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654354202875	geckodriver	INFO	Listening on 127.0.0.1:47569
+1654354202919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyAv4wS"
+Gtk-Message: 17:50:03.054: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354203600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyAv4wS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60069/devtools/browser/09b203ec-bec2-49ed-9155-9411c7d731b4
+1654354205001	Marionette	INFO	Listening on port 41533
+Read port: 41533
+1654354205047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354206099	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html?page=2, line 1500: ReferenceError: integrated_search is not defined
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html?page=2 line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654354215854	Marionette	INFO	Stopped listening on port 41533
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654354216583	geckodriver	INFO	Listening on 127.0.0.1:42231
+1654354216631	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49571" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWdTxoo"
+Gtk-Message: 17:50:16.763: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354217309	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWdTxoo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49571/devtools/browser/ac9d7f7e-2aba-4b17-9f1c-68326f7c2b54
+1654354218716	Marionette	INFO	Listening on port 34807
+Read port: 34807
+1654354218772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354219828	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982495042&w=379.bundle.js, line 1: Error: AxiosError: Network Error
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.windsor_regional_hospital.fc678005878ec949cd484e7b042e94b4.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654354230448	Marionette	INFO	Stopped listening on port 34807
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654354231178	geckodriver	INFO	Listening on 127.0.0.1:44111
+1654354231217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKi3rtn"
+Gtk-Message: 17:50:31.335: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354231900	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKi3rtn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49453/devtools/browser/152d28c2-788c-4a3c-9144-1713570a6439
+1654354233253	Marionette	INFO	Listening on port 33435
+Read port: 33435
+1654354233344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354234129	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.soci%C3%A9t%C3%A9_de_gestion_du_centre_dexcellence_en_th%C3%A9rapie_cellulaire.3453523eca1d04e22a35b5210714923f.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654354242499	Marionette	INFO	Stopped listening on port 33435
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1654354243347	geckodriver	INFO	Listening on 127.0.0.1:40805
+1654354243386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4wJbwS"
+Gtk-Message: 17:50:43.509: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354244087	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4wJbwS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56393/devtools/browser/6d783788-689c-48d3-bf75-3f7b1c5ef75f
+1654354245590	Marionette	INFO	Listening on port 33537
+Read port: 33537
+1654354245709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354246534	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.the_canadian_red_cross_society.0e0090048e870428462fb2cada180b2f.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654354254509	Marionette	INFO	Stopped listening on port 33537
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654354255263	geckodriver	INFO	Listening on 127.0.0.1:38721
+1654354255301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledNEJfo"
+Gtk-Message: 17:50:55.417: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354255974	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledNEJfo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47045/devtools/browser/33326caf-e1f8-4d9f-a976-ab6a29112e30
+1654354257333	Marionette	INFO	Listening on port 35997
+Read port: 35997
+1654354257429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354258184	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.b%C3%A9n%C3%A9voles_du_centre_hospitalier_r%C3%A9gional_de_lanaudi%C3%A8re_les.c8dfe420437f385e9d12fbe12e6e5a76.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654354265943	geckodriver	INFO	Listening on 127.0.0.1:52783
+1654354266510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKHU4rk"
+Gtk-Message: 17:51:06.646: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354267364	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ad9jBBPkK9vi9bAgcuLyu1_QvBg-YOqOKxt2_RJMMQM.js line 2 > eval line 3633 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKHU4rk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48041/devtools/browser/c2dcd5fb-18d9-41ba-888d-d1a0f0f325d2
+1654354269176	Marionette	INFO	Listening on port 46731
+Read port: 46731
+1654354269236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354270170	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html?page=2, line 1500: ReferenceError: integrated_search is not defined
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html?page=2 line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654354276773	Marionette	INFO	Stopped listening on port 46731
+1654354330033	Marionette	INFO	Stopped listening on port 35997
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654354392429	geckodriver	INFO	Listening on 127.0.0.1:40143
+1654354392498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38715" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiler1aF2M"
+Gtk-Message: 17:53:12.635: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354393190	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiler1aF2M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38715/devtools/browser/ccd2ebf1-c066-4079-bcbb-04c5157cb178
+1654354394640	Marionette	INFO	Listening on port 41947
+Read port: 41947
+1654354394716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354396033	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/business-directory/company-information.outpatient_care_centers.ca.html?page=2, line 1530: ReferenceError: integrated_search is not defined
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.outpatient_care_centers.ca.html?page=2 line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654354401557	Marionette	INFO	Stopped listening on port 41947
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654354402291	geckodriver	INFO	Listening on 127.0.0.1:59499
+1654354402331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileveqEAo"
+Gtk-Message: 17:53:22.463: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354403002	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileveqEAo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34085/devtools/browser/b77b72e2-1ec2-43be-88cd-57a4e19619a7
+1654354404434	Marionette	INFO	Listening on port 44767
+Read port: 44767
+1654354404460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354405216	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html?page=2, line 1500: ReferenceError: integrated_search is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html?page=2 line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654354415186	Marionette	INFO	Stopped listening on port 44767
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1654354415937	geckodriver	INFO	Listening on 127.0.0.1:52003
+1654354415986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9kLh0K"
+Gtk-Message: 17:53:36.119: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354416666	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9kLh0K/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33937/devtools/browser/0281c360-dfa4-47bc-87d7-95e9b036e48a
+1654354418086	Marionette	INFO	Listening on port 40415
+Read port: 40415
+1654354418122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354422194	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.windsor_regional_hospital.fc678005878ec949cd484e7b042e94b4.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654354428999	Marionette	INFO	Stopped listening on port 40415
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654354429783	geckodriver	INFO	Listening on 127.0.0.1:43507
+1654354429822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT5rI2O"
+Gtk-Message: 17:53:49.941: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354430504	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileT5rI2O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44727/devtools/browser/e6ff82bd-5e00-4e36-9a4c-7f418cd636bb
+1654354431909	Marionette	INFO	Listening on port 36713
+Read port: 36713
+1654354431965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354432940	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.soci%C3%A9t%C3%A9_de_gestion_du_centre_dexcellence_en_th%C3%A9rapie_cellulaire.3453523eca1d04e22a35b5210714923f.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654354441017	Marionette	INFO	Stopped listening on port 36713
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654354441729	geckodriver	INFO	Listening on 127.0.0.1:59731
+1654354441766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilech3q9b"
+Gtk-Message: 17:54:01.884: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354442444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilech3q9b/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45107/devtools/browser/af9cb800-c5e9-43f1-96bc-6b6904c17b25
+1654354443792	Marionette	INFO	Listening on port 41399
+Read port: 41399
+1654354443894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354444842	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.the_canadian_red_cross_society.0e0090048e870428462fb2cada180b2f.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654354451998	Marionette	INFO	Stopped listening on port 41399
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654354452730	geckodriver	INFO	Listening on 127.0.0.1:38447
+1654354452769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6ANFCA"
+Gtk-Message: 17:54:12.889: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354453448	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6ANFCA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48713/devtools/browser/7a834013-e66e-4e09-a97f-2df9f0515ad4
+1654354454832	Marionette	INFO	Listening on port 40363
+Read port: 40363
+1654354454905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354455651	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-profiles.b%C3%A9n%C3%A9voles_du_centre_hospitalier_r%C3%A9gional_de_lanaudi%C3%A8re_les.c8dfe420437f385e9d12fbe12e6e5a76.html line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Ad9jBBPkK9vi9bAgcuLyu1_QvBg-YOqOKxt2_RJMMQM.js line 2 > eval line 1237 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1654354482131	Marionette	INFO	Stopped listening on port 40363
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654354865798	geckodriver	INFO	Listening on 127.0.0.1:40853
+1654354865863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36471" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGsUvG8"
+Gtk-Message: 18:01:05.979: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654354866526	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGsUvG8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36471/devtools/browser/2c3972a1-a961-40a4-aa37-f6150f2c61cb
+1654354867972	Marionette	INFO	Listening on port 37389
+Read port: 37389
+1654354868102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654354869051	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1654354869237	Marionette	INFO	Stopped listening on port 37389
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
