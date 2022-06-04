@@ -1902,3 +1902,60 @@ JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResources
 
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
+1654351759589	geckodriver	INFO	Listening on 127.0.0.1:38973
+1654351759682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50345" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenb5jbK"
+Gtk-Message: 17:09:19.928: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654351761200	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenb5jbK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50345/devtools/browser/d62ce331-8b50-4546-85d1-4e9118dd571a
+1654351765104	Marionette	INFO	Listening on port 41637
+Read port: 41637
+1654351765242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654351766509	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.outpatient_care_centers.ca.html?page=2, line 1530: ReferenceError: integrated_search is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.outpatient_care_centers.ca.html?page=2 line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654351775849	Marionette	INFO	Stopped listening on port 41637
+1654351811249	geckodriver	INFO	Listening on 127.0.0.1:50701
+1654351812022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNsVJSe"
+Gtk-Message: 17:10:12.338: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654351813387	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNsVJSe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45979/devtools/browser/0c3f61a5-231d-4c36-a877-907e9059635f
+1654351817250	Marionette	INFO	Listening on port 43845
+Read port: 43845
+1654351817416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654351818656	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.outpatient_care_centers.ca.html?page=2, line 1530: ReferenceError: integrated_search is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.outpatient_care_centers.ca.html?page=2 line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654351827293	Marionette	INFO	Stopped listening on port 43845
+1654351829349	geckodriver	INFO	Listening on 127.0.0.1:37955
+1654351830079	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGsmmev"
+Gtk-Message: 17:10:30.423: Failed to load module "appmenu-gtk-module"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1654351831818	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGsmmev/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52873/devtools/browser/8bbcb161-5349-47c3-b84f-731bc2d71cf3
+1654351835486	Marionette	INFO	Listening on port 38577
+Read port: 38577
+1654351835646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654351836946	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://assets.adobedtm.com/71ace39351af/794ff79f723a/launch-eecb2e5db883.min.js, line 6: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html?page=2, line 1500: ReferenceError: integrated_search is not defined
+JavaScript error: https://www.dnb.com/business-directory/company-information.health_care_and_social_assistance.ca.html?page=2 line 5 > injectedScript, line 40: ReferenceError: ss_watts is not defined
+JavaScript error: https://www.dnb.com/apps/dnb/servlets/VersionedStaticResourcesServlet?t=1653982301000&w=functions.bundle.js, line 2: TypeError: o is not a function
+1654351855473	Marionette	INFO	Stopped listening on port 38577
